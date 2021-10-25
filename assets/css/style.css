@@ -73,6 +73,15 @@ h1 {
   padding-right: 0.5rem;
 }
 
-span {
+span,
+.name {
   font-weight: bold;
+}
+
+.name {
+  font-size: 14px;
+}
+
+#data {
+  font-size: 13px;
 }

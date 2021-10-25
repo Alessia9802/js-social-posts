@@ -41,3 +41,10 @@ for (let i = 0; i < post.length; i++) {
   }
   console.log("_____________");
 }
+
+/* Selezione elementi DOM */
+
+document.getElementsByClassName("icon").addEventListener("click", function () {
+  document.getElementsByClassName("people");
+  console.log(icon);
+});
