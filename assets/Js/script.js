@@ -5,7 +5,7 @@ Un secondo array conterrà solo gli id dei posts a cui abbiamo dato like. */
 
 const post = [
   {
-    id: "https://i.picsum.photos/id/549/300/300",
+    id: "image01",
     contenuto: "lorem ipsum",
     immagine: "https://unsplash.it/300/300?image=<id>",
     autore: "Nome",
@@ -13,7 +13,7 @@ const post = [
     data: "10/09/2021",
   },
   {
-    id: "https://i.picsum.photos/id/549/300/300",
+    id: "image02",
     contenuto: "lorem ipsum",
     immagine: "https://unsplash.it/300/300?image=<id>",
     autore: "Nome",
@@ -21,7 +21,7 @@ const post = [
     data: "16/03/2021",
   },
   {
-    id: "https://i.picsum.photos/id/549/300/300",
+    id: "image03",
     contenuto: "lorem ipsum",
     immagine: "https://unsplash.it/300/300?image=<id>",
     autore: "Nome",
